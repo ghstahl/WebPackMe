@@ -8,3 +8,6 @@
 # server  
 %ProjectFolder%/npm run dev
 
+Reference
+https://webpack.github.io/docs/optimization.html#minimize
+https://webpack.github.io/docs/tutorials/getting-started/
